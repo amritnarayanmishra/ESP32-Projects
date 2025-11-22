@@ -1,0 +1,6 @@
+# ESP32 NTP Time Sync
+
+Fetches current date and time from NTP server using WiFi.
+Displays time and date in Serial Monitor.
+
+Time zone used: IST (UTC +5:30)

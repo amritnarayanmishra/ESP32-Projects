@@ -1,0 +1,10 @@
+# ESP32 4-Relay Web Home Automation
+
+Controls four relays from a simple web interface.
+Each relay can be turned ON or OFF through URLs.
+
+Can be used for controlling home appliances like:
+- Bulb
+- Fan
+- Charger
+- Small devices

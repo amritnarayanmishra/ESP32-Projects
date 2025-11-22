@@ -1,0 +1,8 @@
+# ESP32 IoT Weather Station
+
+Measures temperature and humidity using DHT11.
+Shows data on:
+1. OLED Display
+2. Local Web Page
+
+Useful as a simple monitoring system for home environment.

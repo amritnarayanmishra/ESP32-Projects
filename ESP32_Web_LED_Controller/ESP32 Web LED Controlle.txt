@@ -1,0 +1,6 @@
+# ESP32 WebServer LED Control
+
+Simple webpage hosted on ESP32 to control an LED.
+Click ON/OFF links in browser to toggle the LED.
+
+Open the shown IP in mobile/PC browser.

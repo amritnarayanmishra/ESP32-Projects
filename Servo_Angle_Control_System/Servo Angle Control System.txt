@@ -1,0 +1,6 @@
+# Servo Control by Potentiometer (ESP32)
+
+Reads analog value from potentiometer and rotates
+servo motor between 0° to 180° using PWM.
+
+Smooth servo movement based on knob position.

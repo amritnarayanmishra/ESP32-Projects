@@ -1,0 +1,15 @@
+# LED + Button Control (ESP32)
+
+This project toggles an LED using a push button.
+A simple debounce logic is used to avoid false button triggers.
+
+Components:
+- ESP32
+- LED + 220Ω resistor
+- Push button
+
+Connections:
+LED → GPIO 2
+Button → GPIO 4 → GND
+
+Press button → LED ON/OFF changes.

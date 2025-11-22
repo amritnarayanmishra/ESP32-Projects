@@ -1,0 +1,14 @@
+# LDR Night Lamp (ESP32)
+
+This project automatically turns the LED ON in low light
+using LDR sensor values read through ADC.
+
+Components:
+- ESP32
+- LDR
+- 10k Resistor
+- LED
+
+Logic:
+If light level < set threshold → LED ON
+Else → LED OFF

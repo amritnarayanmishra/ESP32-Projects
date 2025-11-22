@@ -1,0 +1,6 @@
+# ESP32 WiFi Connect + Show IP
+
+ESP32 connects to WiFi using credentials in code
+and prints its local IP address in Serial Monitor.
+
+Use mobile hotspot or local WiFi router.

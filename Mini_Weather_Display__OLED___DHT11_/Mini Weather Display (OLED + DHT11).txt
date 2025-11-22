@@ -1,0 +1,12 @@
+# DHT11 Temperature Monitor (ESP32)
+
+Reads temperature and humidity from DHT11 sensor
+and prints values in Serial Monitor.
+
+Components:
+- ESP32
+- DHT11 sensor
+
+Output Format:
+T: xx.x
+H: xx.x

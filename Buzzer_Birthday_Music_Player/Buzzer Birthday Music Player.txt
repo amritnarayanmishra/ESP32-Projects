@@ -1,0 +1,6 @@
+# Birthday Tune on Buzzer (ESP32)
+
+Plays a short Birthday tune on a piezo buzzer.
+Basic tone function used for generating sound.
+
+Repeats the tune after a delay.
